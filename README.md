@@ -30,6 +30,12 @@
 * [**House Sales in King County, USA**](https://github.com/aqafridi/Data-Analytics/blob/main/Data%20Analysis%20with%20Python/House_Sales_in_King_Count_USA.ipynb)
 
 ## [Data Visualization with Python](https://github.com/aqafridi/Data-Analytics/tree/main/Data%20Visualization%20with%20Python)
+* [**Introduction to Data Visualization**](https://github.com/aqafridi/Data-Analytics/tree/main/Data%20Visualization%20with%20Python)
+* [**Visualization Tools**](https://github.com/aqafridi/Data-Analytics/tree/main/Data%20Visualization%20with%20Python)
+* [**Visualizing Geospatial Data**](https://github.com/aqafridi/Data-Analytics/tree/main/Data%20Visualization%20with%20Python)
+* [**Dashboards with Plotly and Dash**](https://github.com/aqafridi/Data-Analytics/tree/main/Data%20Visualization%20with%20Python)
+
+
 ## [IBM Data Analyst Capstone Project](https://github.com/aqafridi/Data-Analytics/tree/main/IBM%20Data%20Analyst%20Capstone%20Project)
 * [**Data Collection**](https://github.com/aqafridi/Data-Analytics/tree/main/IBM%20Data%20Analyst%20Capstone%20Project/1.%20Data%20Collection)
 * [**Data Wrangling**](https://github.com/aqafridi/Data-Analytics/tree/main/IBM%20Data%20Analyst%20Capstone%20Project/2.%20Data%20Wrangling)
