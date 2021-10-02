@@ -31,6 +31,13 @@
 
 ## [Data Visualization with Python](https://github.com/aqafridi/Data-Analytics/tree/main/Data%20Visualization%20with%20Python)
 ## [IBM Data Analyst Capstone Project](https://github.com/aqafridi/Data-Analytics/tree/main/IBM%20Data%20Analyst%20Capstone%20Project)
+* [**Data Collection**](https://github.com/aqafridi/Data-Analytics/tree/main/IBM%20Data%20Analyst%20Capstone%20Project/1.%20Data%20Collection)
+* [**Data Wrangling**](https://github.com/aqafridi/Data-Analytics/tree/main/IBM%20Data%20Analyst%20Capstone%20Project/2.%20Data%20Wrangling)
+* [**Exploratory Data Analysis**](https://github.com/aqafridi/Data-Analytics/tree/main/IBM%20Data%20Analyst%20Capstone%20Project/3.%20Exploratory%20Data%20Analysis)
+* [**Data Visualization**](https://github.com/aqafridi/Data-Analytics/tree/main/IBM%20Data%20Analyst%20Capstone%20Project/4.%20Data%20Visualization)
+* [**Building A Dashboard**](https://github.com/aqafridi/Data-Analytics/tree/main/IBM%20Data%20Analyst%20Capstone%20Project/5.%20Building%20A%20Dashboard)
+* [**Present Findings**](https://github.com/aqafridi/Data-Analytics/tree/main/IBM%20Data%20Analyst%20Capstone%20Project/6.%20Present%20Findings)
+
 
 ## Professional Certificate
 ![IBM Data Analyst Professional Certificate](https://github.com/aqafridi/Data-Analytics/blob/main/images/IBM%20Data%20Analyst%20Professional%20Certificate.jpg)
