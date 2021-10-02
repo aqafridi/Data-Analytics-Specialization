@@ -1,4 +1,4 @@
-# Data-Analytics Courses:
+# Data-Analytics Courses Labs:
 ## [Python for Data Science, AI & Development](https://github.com/aqafridi/Data-Analytics/tree/main/Python%20for%20Data%20Science%2C%20AI%20%26%20Development)
 ## [Python Project for Data Science](https://www.coursera.org/learn/python-project-for-data-science?specialization=ibm-data-analyst)
 ## [Databases and SQL for Data Science with Python](https://github.com/aqafridi/Data-Analytics/tree/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python)
