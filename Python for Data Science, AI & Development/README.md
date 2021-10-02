@@ -1,0 +1,5 @@
+## [Python Basics](https://github.com/aqafridi/Data-Analytics/blob/main/Data%20Analysis%20with%20Python/review-introduction.ipynb)
+## [Python Data Structures](https://github.com/aqafridi/Data-Analytics/blob/main/Data%20Analysis%20with%20Python/data-wrangling.ipynb)
+## [Python Programming Fundamentals](https://github.com/aqafridi/Data-Analytics/blob/main/Data%20Analysis%20with%20Python/exploratory-data-analysis.ipynb)
+## [Working with Data in Python](https://github.com/aqafridi/Data-Analytics/blob/main/Data%20Analysis%20with%20Python/model-development.ipynb)
+## [APIs, and Data Collection](https://github.com/aqafridi/Data-Analytics/blob/main/Data%20Analysis%20with%20Python/model-evaluation-and-refinement.ipynb)
