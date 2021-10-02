@@ -14,4 +14,5 @@
 ## [Data Visualization with Python](https://github.com/aqafridi/Data-Analytics/tree/main/Data%20Visualization%20with%20Python)
 ## [IBM Data Analyst Capstone Project](https://github.com/aqafridi/Data-Analytics/tree/main/IBM%20Data%20Analyst%20Capstone%20Project)
 
+## Professional Certificate
 ![IBM Data Analyst Professional Certificate](https://github.com/aqafridi/Data-Analytics/blob/main/images/IBM%20Data%20Analyst%20Professional%20Certificate.jpg)
